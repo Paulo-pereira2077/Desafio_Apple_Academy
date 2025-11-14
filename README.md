@@ -1,14 +1,11 @@
 # Desafio_Apple_Academy
 Deixo registrado o meu desfio do Programa Apple Academy pelo Centro Universitário Senac
 
-
-Um mini-RPG de terminal desenvolvido em Swift
+Batalha pela Terra Sagrada, um mini-RPG de terminal desenvolvido em Swift
 
 Este projeto é um jogo simples de batalha por turnos criado em Swift para rodar diretamente no terminal.
 
 O jogador enfrenta inimigos cada vez mais fortes, ganha experiência, sobe de nível e aumenta seus atributos.
-
-É um ótimo exercício para quem está aprendendo lógica de programação, estruturas de repetição, funções e manipulação de variáveis.
 
 ---
 
